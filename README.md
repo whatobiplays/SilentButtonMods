@@ -1,5 +1,5 @@
 # Silent Button Mods
-This repository has the 3MF files for the devices featured in my silent button mod video.
+This repository has the 3MF files for the devices featured in my silent button mod video: https://youtu.be/oYGS9zlUG38
 
 ## Printing
 I've already made the height adjustments to the specs in my video, so these are ready to print.
